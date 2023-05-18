@@ -18,3 +18,9 @@
 - ``Via CEP`` - Responsável pelos dados do CEP
 - ``Visual Studio Code``
 - ``Git e GitHub``
+<br>
+
+
+<div align="center"> 
+    <a href="https://cepapi.vercel.app/"> Clique aqui para acessar o site</a>
+</div>
